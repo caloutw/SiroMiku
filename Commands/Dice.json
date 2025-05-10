@@ -1,0 +1,12 @@
+{
+    "name": "dice",
+    "description": "擲骰子，大冒險",
+    "options": [
+        {
+            "name": "sided",
+            "description": "骰子的面數 (2 ~ 20)",
+            "type": 4,
+            "required": true
+        }
+    ]
+}
